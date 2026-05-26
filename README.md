@@ -23,6 +23,10 @@ The workflow includes:
 
 The implementation is intentionally modular so that each responsibility remains isolated and easier to maintain.
 
+---
+## [Step wise solution for base case](https://drive.google.com/file/d/1TSYrkJx5HRIYb4rd6WJvc3qG9L34pOrn/view?usp=sharing)
+---
+
 ## Run the Project
 Install all the required libraries 
 
@@ -124,7 +128,6 @@ JSON Input -> Normalize Data -> Assign Packages -> Run Delivery -> Generate Repo
 
 ## How the System Works
 
-The simulator processes packages one-by-one.
 
 For every package:
 
